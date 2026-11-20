@@ -1,0 +1,58 @@
+[
+  {
+    "id": "M1",
+    "队伍": "北队",
+    "时间": "10:15",
+    "来件": "原语",
+    "引用": "",
+    "内容": "We appeal the second name on our entry list. It was entered twice. We are not contesting the team total yet."
+  },
+  {
+    "id": "M2",
+    "队伍": "北队",
+    "时间": "10:17",
+    "来件": "口译",
+    "引用": "M1",
+    "内容": "第二场的参赛人重复记了，申诉团体总分。"
+  },
+  {
+    "id": "M3",
+    "队伍": "北队",
+    "时间": "10:27",
+    "来件": "原语",
+    "引用": "M1",
+    "内容": "Entry list on Court East, not bout two. We now also appeal the mark in bout one."
+  },
+  {
+    "id": "M4",
+    "队伍": "南队",
+    "时间": "10:18",
+    "来件": "原语",
+    "引用": "",
+    "内容": "They said 'Shen Yu' was entered twice. Is that about our RY entry?"
+  },
+  {
+    "id": "M5",
+    "队伍": "北队",
+    "时间": "10:19",
+    "来件": "原语",
+    "引用": "",
+    "内容": "We appeal the recorded result of bout two, if the signed sheet reads 'withdrawal'."
+  },
+  {
+    "id": "M6",
+    "队伍": "北队",
+    "时间": "10:23",
+    "来件": "原语",
+    "引用": "M5",
+    "内容": "The clerk read it back as withdrawal. We keep the appeal about bout two."
+  },
+  {
+    "id": "M7",
+    "队伍": "北队",
+    "时间": "10:34",
+    "来件": "原语",
+    "引用": "M1",
+    "内容": "Withdraw only the duplicate-entry appeal; keep our bout-two challenge."
+  }
+]
