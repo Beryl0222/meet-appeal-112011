@@ -5,6 +5,7 @@ import subprocess
 import sys
 import unittest
 
+import _bootstrap  # noqa: F401  隔离模式路径引导
 from corpus import read_collection
 
 ROOT = Path(__file__).resolve().parents[1]
